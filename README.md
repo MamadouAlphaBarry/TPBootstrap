@@ -80,8 +80,8 @@
     <tbody>
         <tr>
             <td>Convert euro in DH</td>
-            <td class ="req1"></td>
-            <td class="resp1"></td>
+             <td class ="req1"><img src="./src/main/resources/screeshoot/convertSoapRequest.PNG" alt=""> </td>
+            <td class="resp1"><img src="./src/main/resources/screeshoot/convertSoapResponse.PNG" alt=""> </td>
         </tr>
         <tr>
             <td>getCompte</td>
